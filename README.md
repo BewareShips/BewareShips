@@ -9,7 +9,7 @@
   * React, Typescript, SASS
 - [React responsive-layout](https://bewareships.github.io/react-beema/), Here is the code: [GitHub](https://github.com/BewareShips/react-beema)
   * React, styled-components
-- [React-validation] (https://codesandbox.io/s/github/BewareShips/testing-task-form),Here is the code: [GitHub](https://github.com/BewareShips/testing-task-form)
+- [React-validation] (https://codesandbox.io/s/github/BewareShips/testing-task-form), Here is the code: [GitHub](https://github.com/BewareShips/testing-task-form)
   * React, SASS
 - [React-pizza-shop] Here is the code: [GitHub](https://github.com/BewareShips/react-pizza)
   * React, Redux
