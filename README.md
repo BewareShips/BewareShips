@@ -29,6 +29,6 @@
 - [Js-todo](https://codesandbox.io/s/github/BewareShips/todo) Here is the code: [GitHub](https://github.com/BewareShips/todo)
    - **JavaScript** 
 
-telegrammL overlooped [<img align="left" alt="overlooped | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
+telegramm overlooped [<img  alt="overlooped | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
 
 [telegram]: https://t.me/overlooped
