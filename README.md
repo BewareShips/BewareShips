@@ -1,9 +1,16 @@
 # Hi there, I'm Eden 👋
 ## I'm a Junior Front-end Developer!
 
+I'm using :
+Html,Css,Sass,
+Styled Components,Material ui,
+Js,Typescript,
+React,Redux,
+Node Js,Express,
+MongoDb
+
 ## My projects:
   ### REACT
-
    
 - [Minesweeper-game](https://bewareships.github.io/React-Minesweeper/), Here is the code: [GitHub](https://github.com/BewareShips/React-Minesweeper)
   * React, Typescript, SASS
