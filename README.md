@@ -1,7 +1,7 @@
 # Hi there, I'm Eden 👋
 ## I'm a Junior Front-end Developer!
 
-- I'm using :
+0. I'm using :
 0. Html,Css,Sass,
 0. Styled Components,Material ui,
 0. Js,Typescript,
