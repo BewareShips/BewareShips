@@ -11,7 +11,13 @@
   * React, styled-components
 - [React-validation] (https://codesandbox.io/s/github/BewareShips/testing-task-form), Here is the code: [GitHub](https://github.com/BewareShips/testing-task-form)
   * React, SASS
+-[React game-list] Here is the code: [GitHub](https://github.com/BewareShips/game-list)
+  * React,typescript,webpack, styled-components
 - [React-pizza-shop] Here is the code: [GitHub](https://github.com/BewareShips/react-pizza)
+  * React, Redux
+- [React-todo](https://codesandbox.io/s/github/BewareShips/todo-list-on-react) Here is the code: [GitHub](https://github.com/BewareShips/todo-list-on-react)
+  * React, Redux
+- [React-proressive-todo](https://bewareships.github.io/testing_task/) Here is the code: [GitHub](https://github.com/BewareShips/testing_task)
   * React, Redux
 
 ### JavaScript
@@ -20,3 +26,5 @@
 
   - 🃏 [Simple-Coffee-shop](https://codesandbox.io/s/github/BewareShips/shop3), Here is the code: [GitHub](https://github.com/BewareShips/shop3)
   -  **JavaScript** 
+- [Js-todo](https://codesandbox.io/s/github/BewareShips/todo) Here is the code: [GitHub](https://github.com/BewareShips/todo)
+ -  **JavaScript** 
