@@ -24,7 +24,11 @@
 - 🃏 [Buble-sort-algorithm-animation](https://codesandbox.io/s/github/BewareShips/Buble-sort-animation), Here is the code: [GitHub](https://github.com/BewareShips/Buble-sort-animation)
   -  **Typescript** 
 
-  - 🃏 [Simple-Coffee-shop](https://codesandbox.io/s/github/BewareShips/shop3), Here is the code: [GitHub](https://github.com/BewareShips/shop3)
-  -  **JavaScript** 
+- 🃏 [Simple-Coffee-shop](https://codesandbox.io/s/github/BewareShips/shop3), Here is the code: [GitHub](https://github.com/BewareShips/shop3)
+  -   **JavaScript** 
 - [Js-todo](https://codesandbox.io/s/github/BewareShips/todo) Here is the code: [GitHub](https://github.com/BewareShips/todo)
- -  **JavaScript** 
+   - **JavaScript** 
+
+[<img align="left" alt="overlooped | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
+
+[telegram]: https://t.me/overlooped
