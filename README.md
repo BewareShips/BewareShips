@@ -1,13 +1,13 @@
 # Hi there, I'm Eden 👋
 ## I'm a Junior Front-end Developer!
 
-I'm using :
-Html,Css,Sass,
-Styled Components,Material ui,
-Js,Typescript,
-React,Redux,
-Node Js,Express,
-MongoDb
+-I'm using :
+-Html,Css,Sass,
+-Styled Components,Material ui,
+-Js,Typescript,
+-React,Redux,
+-Node Js,Express,
+-MongoDb
 
 ## My projects:
   ### REACT
