@@ -30,5 +30,4 @@
    - **JavaScript** 
 
 Contact me[<img align="left" alt="overlooped | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-512.png" />][telegram]
-
 [telegram]: https://t.me/overlooped
